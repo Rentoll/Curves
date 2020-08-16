@@ -7,13 +7,12 @@
 ////////////////////////////////////////////////////////////
 #include <utility>
 
-namespace crv {
-
 #define PI      3.14
 #define CIRCLE  0
 #define ELLIPSE 1
 #define HELIX   2
 
+namespace crv {
 
 ////////////////////////////////////////////////////////////
 /// \brief 3D Point with x, y and z coordinates
